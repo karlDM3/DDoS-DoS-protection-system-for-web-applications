@@ -27,4 +27,3 @@ This Python-based solution provides an essential set of security mechanisms aime
 - **Security Layering**: Implements multiple layers of defense, from rate limiting to CAPTCHA challenges, to ensure a robust defense against a variety of attack strategies.
 - **Real-time Response**: Offers immediate detection and mitigation, preventing the web server from being overwhelmed by malicious traffic.
   
-This system can be easily integrated into a web application to ensure its availability and reliability during high-traffic scenarios or targeted attacks. However, for extremely large-scale DDoS attacks, integrating with professional services like Cloudflare or AWS Shield is recommended for optimal protection.
